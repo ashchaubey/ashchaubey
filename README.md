@@ -1,9 +1,5 @@
 ### Hola I'm Ashish Chaubey(hackpandit) 👋
 
-<!--
-**ashchaubey/ashchaubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cybersecurity Tools
 - 🌱 I’m currently learning VAPT and Exploit Development
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter@hack_pandit
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: Love to listen kishore kumar song
--->
+
