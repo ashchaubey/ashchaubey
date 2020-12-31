@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Java IDE Development,Security Basics**
 
-- 📫 How to reach me **[Twitter@hack_pandit](https://twitter.com/hack_pandit)**
-
 - ⚡ Fun fact **Love to listen kishore kumar song**
 
 <h3 align="left">Connect with me:</h3>
