@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java IDE Development,Security Basics**
 
-- ⚡ Fun fact **Love to listen kishore kumar song**
+- ⚡ Fun fact **Love to listen kishore kumar song and Rajesh Khanna Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
