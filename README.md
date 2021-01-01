@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Chaubey(hack_pandit)</h1>
-<h3 align="center">A passionate Cybersecurity Entusiat from India</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="ashchaubey" /> </p>
 
