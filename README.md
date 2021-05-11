@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Cybersecurity enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="ashchaubey" /> </p>
+<img align="right" alt="GIF" height="300px" width="300px" src="https://media.tenor.com/images/742915bec8dd003b6f0fa9852396deb4/tenor.gif" />
 
 - 🔭 I’m currently working on **Cybersecurity Tools**
 
