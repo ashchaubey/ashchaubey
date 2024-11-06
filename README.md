@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java IDE Development,Security Basics**
 
-- ⚡ Fun fact **Hunt Bounties Not BOoties**
+- ⚡ Fun fact **Never Settle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
